@@ -2,9 +2,9 @@
   "session1": {
     "SESSION_ID": "levanter_sessionid",
     "PREFIX": "^[.,!]",
-    "SUDO": "0",
+    "SUDO": "918536881026",
     "STICKER_PACKNAME": "✪⏤͟͞★⃝ꪶ‎𝛥𝐿𝛯𝛸-𝛲𝛪𝛫𝑈𖥘✪͜͡➺,𝛥𝐿𝛯𝛸 𝛲𝛪𝛫𝑈",
-    "ALWAYS_ONLINE": "false",
+    "ALWAYS_ONLINE": "true",
     "RMBG_KEY": "null",
     "WARN_LIMIT": "3",
     "FORCE_LOGOUT": "false",
